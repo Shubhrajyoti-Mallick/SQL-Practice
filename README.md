@@ -14,7 +14,7 @@ I am building my SQL skills step by step, focusing on practical query writing an
 ## 📚 Topics Covered
 
 - SQL Fundamentals
-- DDL Commands (CREATE, ALTER, DROP, TRUNCATE)
+- DDL Commands (CREATE, ALTER, DROP, TRUNCATE,RENAME )
 - DML Commands (INSERT, UPDATE, DELETE, MERGE)
 - SQL Constraints
 - Arithmetic Operators
